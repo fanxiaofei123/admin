@@ -12,7 +12,7 @@ const conf = {
     // serverHost: 'http://admin.happymmall.com'
     // dev
     serverHost: '',
-    imageHost: 'http://img.fxf.com/',
+    imageHost: 'http://211.159.189.15/',
 }
 
 class MMUtil{
